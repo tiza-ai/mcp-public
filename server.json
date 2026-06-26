@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.miguelaeh/tiza-search",
+  "name": "io.github.tiza-ai/mcp-public",
   "description": "Search engine for AI agents to find MCP servers, A2A agents, and skills on their own.",
   "repository": {
-    "url": "https://github.com/miguelaeh/tiza-mcp-readme",
+    "url": "https://github.com/tiza-ai/mcp-public",
     "source": "github"
   },
   "version": "0.1.0",

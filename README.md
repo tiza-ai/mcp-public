@@ -60,4 +60,3 @@ claude mcp add --transport http tiza-search https://tiza.cc/mcp
 ## License
 
 [MIT](./LICENSE)
-# tiza-mcp-readme
