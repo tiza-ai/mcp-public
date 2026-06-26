@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.miguelaeh/tiza-search",
+  "description": "Search engine for AI agents to find MCP servers, A2A agents, and skills on their own.",
+  "repository": {
+    "url": "https://github.com/miguelaeh/tiza-mcp-readme",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "websiteUrl": "https://tiza.cc",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tiza.cc/mcp"
+    }
+  ]
+}
