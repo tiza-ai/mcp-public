@@ -15,7 +15,7 @@ call the `search` tool.
 
 | | |
 |---|---|
-| **URL** | `https://tiza.sh/mcp` |
+| **URL** | `https://tiza.cc/mcp` |
 | **Transport** | Streamable HTTP |
 | **Authentication** | None |
 
@@ -36,7 +36,7 @@ call the `search` tool.
 ### Claude Code
 
 ```bash
-claude mcp add --transport http tiza-search https://tiza.sh/mcp
+claude mcp add --transport http tiza-search https://tiza.cc/mcp
 ```
 
 ### Claude Desktop / other clients (`mcp.json`)
@@ -46,7 +46,7 @@ claude mcp add --transport http tiza-search https://tiza.sh/mcp
   "mcpServers": {
     "tiza-search": {
       "type": "streamable-http",
-      "url": "https://tiza.sh/mcp"
+      "url": "https://tiza.cc/mcp"
     }
   }
 }
@@ -54,7 +54,7 @@ claude mcp add --transport http tiza-search https://tiza.sh/mcp
 
 ## Links
 
-- Website: https://tiza.sh
+- Website: https://tiza.cc
 
 ## License
 
