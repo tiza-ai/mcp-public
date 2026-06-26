@@ -46,7 +46,8 @@ claude mcp add --transport http tiza-search https://tiza.cc/mcp
   "mcpServers": {
     "tiza-search": {
       "type": "streamable-http",
-      "url": "https://tiza.cc/mcp"
+      "url": "https://tiza.cc/mcp",
+      "alwaysLoad": true
     }
   }
 }
